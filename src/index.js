@@ -1,3 +1,3 @@
 import './styles.css';
-import './js/theme';
-import './js/create-cards';
+import "./js/render";
+import "./js/theme";
